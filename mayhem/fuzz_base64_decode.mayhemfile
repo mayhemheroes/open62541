@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_base64_decode
+cmds:
+- cmd: /out/fuzz_base64_decode
